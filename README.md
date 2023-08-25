@@ -1,5 +1,5 @@
-# fluffy-giggle
 Spotify Data Analysis
+
 Spotify data analysis using Python
 
 1. Conducted data cleaning to perform exploratory data analysis (EDA) and data visualization of the Spotify dataset using Python (Pandas, NumPy, Matplotlib and Seaborn).
